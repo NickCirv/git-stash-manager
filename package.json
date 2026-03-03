@@ -1,0 +1,34 @@
+{
+  "name": "git-stash-manager",
+  "version": "1.0.0",
+  "description": "Interactive TUI for browsing, previewing, and managing git stashes. Zero dependencies.",
+  "type": "module",
+  "bin": {
+    "git-stash-manager": "./index.js",
+    "gsm": "./index.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "keywords": [
+    "developer-tools",
+    "cli",
+    "nodejs",
+    "zero-dependencies",
+    "git",
+    "stash",
+    "tui",
+    "interactive",
+    "developer-productivity"
+  ],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/NickCirv/git-stash-manager.git"
+  },
+  "homepage": "https://github.com/NickCirv/git-stash-manager#readme",
+  "bugs": {
+    "url": "https://github.com/NickCirv/git-stash-manager/issues"
+  },
+  "author": "NickCirv"
+}
