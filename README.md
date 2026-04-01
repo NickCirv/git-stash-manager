@@ -1,3 +1,5 @@
+![Banner](banner.svg)
+
 # git-stash-manager
 
 > Interactive TUI for browsing, previewing, and managing git stashes. Zero external dependencies.
